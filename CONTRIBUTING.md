@@ -1,0 +1,1 @@
+Please see CONTRIBUTING guidelines in the repository.

@@ -1,0 +1,1 @@
+Self-Optimization and design choices logged here.
